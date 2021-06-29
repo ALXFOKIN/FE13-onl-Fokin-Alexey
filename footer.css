@@ -1,0 +1,26 @@
+.footer-icon{
+    display: inline;
+    font-size: 28px;
+    font-weight: 800;
+    color: rgba(219, 9, 9, 0);
+    margin: 15px;
+}
+.footer-icon a{
+    color: rgba(255, 255, 255, 0.5);
+}
+.footer-text-1{
+color: rgba(255, 255, 255, 0.5);
+}
+.footer-icons-menu{
+    display: flex;
+    align-items: center;
+}
+.footer{
+    margin:auto;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    align-items:center;
+    background-color: black;
+    align-items: center;
+}
