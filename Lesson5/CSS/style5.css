@@ -1,0 +1,39 @@
+.container1{
+    max-width: ;
+    height:;
+    margin:auto;
+    top:100px;
+    text-transform: initial;
+    font-family: "Raleway",sans-serif;
+    margin-top: 80px;
+    box-sizing: border-box;
+    
+  }
+  
+  .separator{
+    width:64px;
+    height: 2px;
+    background-color:#D98943;
+    margin: 0 auto;
+  }
+  h1{
+    text-align: center;
+    font-family: "Raleway",sans-serif;
+    text-transform: uppercase ;
+  }
+  .content{
+    width: 363px;
+    height: 19px;
+    margin: auto;
+    font-family: "open sans",sans-serif;
+    font-size:14px;
+    color:#86878B;
+    text-align: center;
+  }
+  .body{
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+  

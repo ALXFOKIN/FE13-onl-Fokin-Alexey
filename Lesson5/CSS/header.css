@@ -1,0 +1,55 @@
+.navigation{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.logo{
+    color:white;
+    text-transform: uppercase;
+    font-family: "raleway",sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35.22px;
+}
+.logo:hover{
+    transform: translateX(20px);
+    transition: 0.5s;
+
+}
+.logo::after{
+content:"it";
+color:rgb(165, 49, 69);
+font-family: "roboto",sans-serif;
+line-height: 35.16px;
+
+
+}
+.logo{
+    display: flex;
+    align-items: flex-start;
+}
+.menu{
+    display: flex;
+    align-items: flex-end;
+    text-transform: capitalize;
+   
+}
+.header-menu-nav{
+    display: inline-block;
+    margin: 0 24px;
+    padding: 5px;
+   
+}
+.header-menu-nav a{
+    color:rgba(255,255,255,0.7);
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 15px;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+.header-menu-nav a:hover{
+    border-bottom: solid rgb(165, 49, 69) 3px;
+    border-left:solid rgb(165, 49, 69) 3px;
+}

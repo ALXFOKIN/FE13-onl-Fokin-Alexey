@@ -1,0 +1,122 @@
+.part2{
+    background: #E5E5E5;
+  }
+  .separator{
+    width:64px;
+    height: 2px;
+    background-color:#D98943;
+    margin: 0 auto;
+  }
+  .h2{
+    text-align: center;
+    font-family: "Raleway",sans-serif;
+  
+  }
+  .content{
+    width: 363px;
+    height: 19px;
+    margin: auto;
+    font-family: "open sans",sans-serif;
+    font-size:14px;
+    color:#86878B;
+    text-align: center;
+  }
+  
+  .section {
+    max-width: 1170px;
+    top: 100px;
+    text-align: center;
+    margin:auto;
+    margin-bottom: 65px;
+  }
+  .container{
+    text-transform: uppercase;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    margin-top: 80px;
+  
+     }
+  .section2{
+    max-width:1170px;
+    height:470px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:74px;
+  }
+  .basic {
+    width: 340px;
+    height: 467px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-left:15px;
+  
+  }
+  .line{
+    margin-top:0 ;
+    margin-bottom: 0;
+    height: 50px;
+    font-family: Open Sans, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+  
+  }
+  .line2 {
+    margin-top: 1px;
+    margin-bottom: 0;
+    height: 100px;
+    font-family: Raleway,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+  }
+  .line3, .line31 {
+    margin-top: 2px;
+    height:50px;
+    margin-bottom: auto;
+    font-family: Open Sans,sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+  }
+  .line, .line2, .line3{
+    text-transform: capitalize;
+    background-color: #333333;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .parts{
+  display:flex;
+  flex-direction: column;
+  }
+  .line4{
+    margin-top: 4px;
+    box-sizing: border-box;
+    background-color: #FFFFFF;
+    font-family: "open sans", sans-serif;
+    font-weight: 400;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .line31{
+    background-color: #D98943;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+  }
+  .princing-options{
+  background-color: rgba(245, 245, 245, 1);
+  }
+  

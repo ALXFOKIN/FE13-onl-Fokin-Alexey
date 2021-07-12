@@ -1,0 +1,109 @@
+*{
+    margin-top: 0;
+    
+}
+.axit{
+    padding-top: 108px;  
+    padding-bottom: 112px;
+    width: 100%;
+    background: url(../img/background.png) center;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+.axit-column-text h2{
+font-family: Raleway;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 42px;
+letter-spacing: 0em;
+text-align: left;
+}
+.axit-column-text span{
+font-family: Raleway;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+}
+.axit-column-text p{
+    font-family: Roboto;
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+text-align: left;
+
+}
+.axit-section-form{
+    max-width: 370px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 8px;
+
+    flex: 0 1 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    
+ 
+
+}.form1-title{
+    padding-top: 34px;
+    padding-bottom:32px;
+    font-size: 20px;
+}
+.form-axit-row{
+width:100;
+border-bottom: red solid 3px;
+}
+*{
+    border: none;
+}
+ .axit-columns{
+     display: flex;
+     justify-content: space-between;
+     max-width: 1170px;
+
+ }
+.axit-column-text{
+    font-family: "Raleway-Regular","Arial", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+
+    font-family: Roboto;
+   font-size: 60px;
+   font-style: normal;
+   font-weight: 400;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+}
+.circle{
+   
+        display: inline;
+        font-family: "Font Awesome 5 Free";
+        font-weight: 800;
+        font-size: 33px; 
+        margin: 15px;
+        line-height: 24px;
+        font-style: normal;
+        color:orangered;
+
+}
+/* посмотрим */
+
+
